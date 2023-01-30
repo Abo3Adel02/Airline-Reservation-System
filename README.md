@@ -3,4 +3,4 @@
 to add/remove flight or remove customer 
 # ---------------------------------
 ### the system allow the customer
-to search for a flight, book a flight (add information) and can pay for his flight throught his credit card and can print the flight ticket.
+to search for a flight, book a flight, can pay for his flight throught his credit card & can print the flight ticket.
